@@ -39,6 +39,4 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 - After changing corpus or ingest settings, delete `.chroma` if you need a clean re-index, then run `ingest.py` again.
 - User notes from the UI are stored in a separate Chroma collection (`user_notes`) alongside the main doc index.
 
-## License
 
-Add a license if you publish the repo publicly.
