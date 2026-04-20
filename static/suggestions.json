@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Accept",
+    "subtitle": "web/http/reference/headers/accept",
+    "query": "What does MDN document about Accept? (From \u201cweb/http/reference/headers/accept\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept/index.md"
+  },
+  {
+    "title": "Authorization",
+    "subtitle": "web/http/reference/headers/authorization",
+    "query": "What does MDN document about Authorization? (From \u201cweb/http/reference/headers/authorization\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/authorization/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/authorization/index.md"
+  },
+  {
+    "title": "Content Type",
+    "subtitle": "web/http/reference/headers/content-type",
+    "query": "What does MDN document about Content Type? (From \u201cweb/http/reference/headers/content-type\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/content-type/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/content-type/index.md"
+  },
+  {
+    "title": "Cache Control",
+    "subtitle": "web/http/reference/headers/cache-control",
+    "query": "What does MDN document about Cache Control? (From \u201cweb/http/reference/headers/cache-control\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/cache-control/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/cache-control/index.md"
+  },
+  {
+    "title": "Cookie",
+    "subtitle": "web/http/reference/headers/cookie",
+    "query": "What does MDN document about Cookie? (From \u201cweb/http/reference/headers/cookie\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/cookie/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/cookie/index.md"
+  },
+  {
+    "title": "Accept Ranges",
+    "subtitle": "web/http/reference/headers/accept-ranges",
+    "query": "What does MDN document about Accept Ranges? (From \u201cweb/http/reference/headers/accept-ranges\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-ranges/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-ranges/index.md"
+  },
+  {
+    "title": "Etag",
+    "subtitle": "web/http/reference/headers/etag",
+    "query": "What does MDN document about Etag? (From \u201cweb/http/reference/headers/etag\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/etag/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/etag/index.md"
+  },
+  {
+    "title": "Accept Encoding",
+    "subtitle": "web/http/reference/headers/accept-encoding",
+    "query": "What does MDN document about Accept Encoding? (From \u201cweb/http/reference/headers/accept-encoding\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-encoding/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-encoding/index.md"
+  },
+  {
+    "title": "Accept Ch",
+    "subtitle": "web/http/reference/headers/accept-ch",
+    "query": "What does MDN document about Accept Ch? (From \u201cweb/http/reference/headers/accept-ch\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-ch/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-ch/index.md"
+  },
+  {
+    "title": "Accept Language",
+    "subtitle": "web/http/reference/headers/accept-language",
+    "query": "What does MDN document about Accept Language? (From \u201cweb/http/reference/headers/accept-language\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-language/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-language/index.md"
+  },
+  {
+    "title": "Accept Patch",
+    "subtitle": "web/http/reference/headers/accept-patch",
+    "query": "What does MDN document about Accept Patch? (From \u201cweb/http/reference/headers/accept-patch\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-patch/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-patch/index.md"
+  },
+  {
+    "title": "Accept Post",
+    "subtitle": "web/http/reference/headers/accept-post",
+    "query": "What does MDN document about Accept Post? (From \u201cweb/http/reference/headers/accept-post\u201d in mdn/content.)",
+    "source": "mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-post/index.md",
+    "doc_url": "https://github.com/mdn/content/blob/main/files/en-us/web/http/reference/headers/accept-post/index.md"
+  }
+]
